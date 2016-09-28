@@ -1,0 +1,18 @@
+h1 {
+    background-color: #A3A9AD;
+}
+
+div {
+    background-color: darkgrey;
+}
+
+p {
+    background-color: dimgrey;
+}
+
+body {
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/d3/f3/4a/d3f34a2657a6640a5eddc7f17eb523aa.jpg);
+}
+.css-selector {
+    font-family: 'Julius Sans One', sans-serif;
+}
